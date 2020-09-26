@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MacOS-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-Lang-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jupyter-IDE-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/R-Lang-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/RStudio-IDE-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MATLAB-Lang-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
