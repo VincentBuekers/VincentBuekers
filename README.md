@@ -7,9 +7,12 @@
 - 🔭 I’m currently working on a COVID-19 dashboard
 - 🌱 I’m currently learning Shiny, Spark and Django
 - 📫 How to reach me: buekersvincent@gmail.com
+
 <a href="https://www.linkedin.com/in/vincent-buekers-78a231140/">
       <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+
 
 ## Languages & Tools
 
