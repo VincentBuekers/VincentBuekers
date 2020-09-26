@@ -2,10 +2,10 @@
 
 <br/>
      
-     Statistician by training, machine learning enthusiast by nature.
+     I am a statistician and machine learning enthusiast. Currently looking for opportunities as a Data Scientist.
 
-- I’m currently working on a COVID-19 dashboard
-- I’m currently learning Shiny, Spark and Django
+- I’m working on a COVID-19 dashboard
+- I’m learning Shiny and Spark 
 - You can also find me on [![LinkedIn][3.2]][3]
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
