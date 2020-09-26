@@ -2,7 +2,7 @@
 
 <br/>
      
-     I am a statistician and machine learning enthusiast. Currently looking for opportunities as a Data Scientist.
+     I am a statistician and machine learning enthusiast. Currently looking for opportunities as a Data Scientist in the Randstad area, Netherlands.
 
 - I’m working on a COVID-19 dashboard
 - I’m learning Shiny and Spark 
@@ -13,7 +13,7 @@
 
 ## Languages & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
