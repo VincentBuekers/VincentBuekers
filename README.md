@@ -4,15 +4,13 @@
      
      Statistician by training, machine learning enthusiast by nature.
 
-- 🔭 I’m currently working on a COVID-19 dashboard
-- 🌱 I’m currently learning Shiny, Spark and Django
-- 📫 How to reach me: buekersvincent@gmail.com
+- I’m currently working on a COVID-19 dashboard
+- I’m currently learning Shiny, Spark and Django
+- Reach out to me at: buekersvincent@gmail.com
+- You can also find me on [![LinkedIn][3.2]][3]
 
-<a href="https://www.linkedin.com/in/vincent-buekers-78a231140/">
-      <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
+[3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 ## Languages & Tools
 
