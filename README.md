@@ -2,10 +2,11 @@
 
 <br/>
      
-     I am a statistician and machine learning enthusiast. Currently looking for opportunities as a Data Scientist in the Randstad area, Netherlands.
+     I am a statistician with a background in economics. 
+     Currently looking for Data Scientist role in the Randstad area, Netherlands.
 
 - I’m working on a COVID-19 dashboard
-- I’m learning Shiny and Spark 
+- I’m learning Shiny, Rmarkdown and Spark 
 - You can also find me on [![LinkedIn][3.2]][3]
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
