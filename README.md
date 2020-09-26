@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=overleaf&logoColor=white&color=2bbc8a)
 
 ## Social
