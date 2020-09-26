@@ -14,7 +14,7 @@
 ## Languages & Tools
 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MacOS-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
@@ -24,7 +24,7 @@
 
 ![](https://img.shields.io/badge/MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/LaTeX-Typesetting-informational?style=flat&logo=overleaf&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Overleaf-LaTeX-informational?style=flat&logo=overleaf&logoColor=white&color=2bbc8a)
 
 ## Stats
 
