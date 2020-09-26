@@ -6,7 +6,6 @@
 
 - I’m currently working on a COVID-19 dashboard
 - I’m currently learning Shiny, Spark and Django
-- Reach out to me at: buekersvincent@gmail.com
 - You can also find me on [![LinkedIn][3.2]][3]
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
