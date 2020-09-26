@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 <br/>
      
      Statistician by training, machine learning enthusiast by nature.
-     
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)-->
-[![vincent's github stats](https://github-readme-stats.vercel.app/api?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
 
 ## Technologies & Tools
 
@@ -29,3 +26,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vincent-buekers-78a231140/">
       <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
+[![vincent's github stats](https://github-readme-stats.vercel.app/api?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
