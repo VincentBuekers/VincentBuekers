@@ -6,19 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a COVID-19 dashboard
-- 🌱 I’m currently learning Shiny, Spark and Django
-
-- 📫 How to reach me: buekersvincent@gmail.com
-
 <br/>
      
      Statistician by training, machine learning enthusiast by nature.
 
+- 🔭 I’m currently working on a COVID-19 dashboard
+- 🌱 I’m currently learning Shiny, Spark and Django
+- 📫 How to reach me: buekersvincent@gmail.com
+
 ## Languages & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google chrome&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
