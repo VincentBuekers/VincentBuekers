@@ -3,6 +3,9 @@
 <!--
 **VincentBuekers/VincentBuekers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+-->
+
 - 🔭 I’m currently working on a COVID-19 dashboard
 - 🌱 I’m currently learning Shiny, Spark and Django
 
