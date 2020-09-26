@@ -1,11 +1,5 @@
 ### Hello 👋
 
-<!--
-**VincentBuekers/VincentBuekers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 <br/>
      
      Statistician by training, machine learning enthusiast by nature.
@@ -13,6 +7,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a COVID-19 dashboard
 - 🌱 I’m currently learning Shiny, Spark and Django
 - 📫 How to reach me: buekersvincent@gmail.com
+<a href="https://www.linkedin.com/in/vincent-buekers-78a231140/">
+      <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ## Languages & Tools
 
@@ -24,14 +21,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=overleaf&logoColor=white&color=2bbc8a)
-
-## Social
-
-<!-- Links to your social media accounts -->
-
-<a href="https://www.linkedin.com/in/vincent-buekers-78a231140/">
-      <img align="left" alt="Anshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 ## Stats
 
