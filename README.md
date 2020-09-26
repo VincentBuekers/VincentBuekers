@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Social
 
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)-->
 [![vincent's github stats](https://github-readme-stats.vercel.app/api?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
