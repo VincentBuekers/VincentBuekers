@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
 [![vincent's github stats](https://github-readme-stats.vercel.app/api?username=VincentBuekers&show_icons=true)](https://github.com/VincentBuekers/github-readme-stats)
