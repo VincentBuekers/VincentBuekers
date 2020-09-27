@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-3.X-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
