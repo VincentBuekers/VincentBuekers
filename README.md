@@ -5,9 +5,11 @@
      I'm a graduate statistician with a background in economics. 
      Currently looking for a Data Scientist role in the Randstad area, Netherlands.
 
-- I’m working on a COVID-19 dashboard
+- I’m continuously trying to improve my practical skills on DataCamp
 - Python fanatic (I’m currently learning pyTorch and Spark)
-- Whenever I need to, I will resort to R (e.g. ggplot, shiny, Rmarkdown )
+- Whenever I need to, I will resort to R (e.g. ggplot, shiny, Rmarkdown)
+- I enjoy reading about all things machine learning and AI
+
 - You can find me on [![LinkedIn][3.2]][3]
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
