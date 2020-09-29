@@ -4,8 +4,9 @@
      
      I'm a graduate statistician with a background in economics. 
      Currently looking for a Data Scientist role in the Randstad area, Netherlands.
-     You can find me on [![LinkedIn][3.2]][3]
 
+You can find me on [![LinkedIn][3.2]][3]
+     
 - I’m continuously trying to improve my practical skills while staying up to data on recent developments in machine learning and AI
 - Python fanatic (I’m currently learning pyTorch and Spark)
 - R enthusiast in regard to visualization and reporting (ggplot, shiny, Rmarkdown)
