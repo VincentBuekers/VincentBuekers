@@ -2,12 +2,13 @@
 
 <br/>
      
-     I am a statistician with a background in economics. 
-     Currently looking for Data Scientist role in the Randstad area, Netherlands.
+     I'm a graduate statistician with a background in economics. 
+     Currently looking for a Data Scientist role in the Randstad area, Netherlands.
 
 - I’m working on a COVID-19 dashboard
-- I’m learning Shiny, Rmarkdown and Spark 
-- You can also find me on [![LinkedIn][3.2]][3]
+- Python fanatic (I’m currently learning pyTorch and Spark)
+- Whenever I need to, I will resort to R (e.g. ggplot, shiny, Rmarkdown )
+- You can find me on [![LinkedIn][3.2]][3]
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
