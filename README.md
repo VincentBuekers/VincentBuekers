@@ -22,6 +22,7 @@ You can find me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/Python-3.X-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 
