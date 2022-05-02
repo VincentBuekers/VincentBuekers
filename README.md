@@ -2,14 +2,9 @@
 
 <br/>
      
-     I'm a graduate statistician with a background in economics. 
-     Currently looking for a Data Scientist role in the Randstad area, Netherlands.
+     Graduate statistician with a background in economics. 
 
 You can find me on [![LinkedIn][3.2]][3]
-     
-- I’m continuously trying to improve my practical skills while staying up to data on recent developments in machine learning and AI
-- Python fanatic (I’m currently learning pyTorch and Spark)
-- R enthusiast in regard to visualization and reporting (ggplot, shiny, Rmarkdown)
 
 [3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
