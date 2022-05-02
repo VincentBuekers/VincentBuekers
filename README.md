@@ -21,8 +21,6 @@ You can find me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Overleaf-LaTeX-informational?style=flat&logo=overleaf&logoColor=white&color=2bbc8a)
 
 ## Stats
