@@ -4,11 +4,6 @@
      
      Graduate statistician with a background in economics. 
 
-You can find me on [![LinkedIn][3.2]][3]
-
-[3]: https://www.linkedin.com/in/vincent-buekers-78a231140/
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 ## Languages & Tools
 
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
